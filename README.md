@@ -27,13 +27,13 @@ First Verison of the APP : 1.0
 1. First of all, download the App.
 2. Open the app and follow the steps.
 3. Signup using your CIN + Phone ( Make sure to have internet ).
-4. Activate the bluetooth so the application can get your mac Adresse else you can enter it by your own. 
-5. After the signing, you will be redirected to the main page of the application, where you will get the Statistics and your profile details as a card.
-6. If you are deciding to go out, Click on the tracking button in the right bottom corner and start tracking any collisions arround you.
-7. The app will keep tracking for any persones you meet out there and it will save them in your phone using a spesific encryption.
-8. Let's say for example that you got the covid-19, the government will take your phone and it will be able to access the encrypted data from your phone using the List icon in the navigation Bar, they can also upload the decrypted data to ther servers to get stastics and find the persones you collided with in a very safe way.
+4. Activate the bluetooth so the application can get your mac Address else you can enter it by your own. 
+5. Once you're signed in, you will be redirected to the main page of the application, where you will get the Statistics and your profile details as a card.
+6. If you opt to go out, Click on the tracking button at the bottom right corner and start tracking any collisions around you.
+7. The app will keep tracking for any person you meet out there and it will save them in your phone using a specific encryption.
+8. Let's say for example that you got the covid-19, the government will take your phone and it will be able to access the encrypted data from your phone using the List icon in the navigation Bar, they can also upload the decrypted data to ther servers to get information and find the persons you collided with in a precautions and safe manner.
 
-That's All, Stay safe nd Stay #home
+That's All, Stay safe and Stay #home
 
 ## Video
 
